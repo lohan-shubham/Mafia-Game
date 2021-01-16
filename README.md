@@ -1,6 +1,6 @@
 # Mafia-Game
 
-> This is simple implemented single user game in which basic moto is to  > eliminate people based on certain rules described in [instruction.pdf](instructions.pdf).
+> This is simple implemented single user game in which basic moto is to eliminate people based on certain rules described in [instruction.pdf](instructions.pdf).
 > Player which stands last wins the game
 >
 >
