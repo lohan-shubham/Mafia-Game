@@ -14,4 +14,5 @@
 $ javac Main.java
 $ java Main
 ```
-![](/image.jpg)
+<!-- ![](/image.jpg) -->
+<img src="image.jpg" height="300" width="300">
